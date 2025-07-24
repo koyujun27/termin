@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "2025 창의융합과제연구"
+  navbar:
+    left:
+      - href: project1 캘리포니아 주택 가격.ipynb
+        text: Page1
+      - href: project2 붓꽃 분류.ipynb
+        text: Page2
+
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+
+

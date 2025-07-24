@@ -1,0 +1,12 @@
+{
+  "hash": "d7beecd8195b2b73767eee4993771cff",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\njupyter: python3\n---\n\n",
+    "supporting": [
+      "myproject_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
